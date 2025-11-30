@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Railway_Measurement_robot/static/css/main.3adacfcc.css",
+    "main.js": "/Railway_Measurement_robot/static/js/main.6c25b89b.js",
+    "index.html": "/Railway_Measurement_robot/index.html",
+    "main.3adacfcc.css.map": "/Railway_Measurement_robot/static/css/main.3adacfcc.css.map",
+    "main.6c25b89b.js.map": "/Railway_Measurement_robot/static/js/main.6c25b89b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adacfcc.css",
+    "static/js/main.6c25b89b.js"
+  ]
+}

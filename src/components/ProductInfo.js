@@ -42,14 +42,14 @@ const ProductInfo = () => {
         <p className="hero-description">
           铁路测量机器人为小型化多功能轨道检测装备，集成三维激光扫描仪与组合导航系统。可快速、全面获取线路沿线的点云、三维尺寸、全景影像、漫游视频等测量成果。用于完成线路测量、接触网检测、限界检测、轨旁设备调查、隧道变形与病害检测等工作。该设备具备可简易拆解、小型化、灵活性等特点，适用于地铁、国铁等多种轨道交通线路的检测需求。
         </p>
-        <a
+        {/* <a
           href="https://www.bilibili.com/video/BV1EKUzBaEos/?spm_id_from=333.1387.homepage.video_card.click&vd_source=eb3a763f33da8c162da4e6c6c62bcceb"
           target="_blank"
           rel="noopener noreferrer"
           className="video-button"
         >
           ▶ 查看演示视频
-        </a>
+        </a> */}
         {showImage && (
           <div className="hero-image">
             <div className="image-wrapper">
